@@ -3,6 +3,7 @@
 <h3>Ola! Eu sou o Erick 🫠</h3>
 Desde os <b>12 anos de idade</b> tenho contato com a área de programação. Atualmente, estou buscando progredir na área de <b>back-end</b> e também na área de <b>Inteligência Virtual</b>.
 
+<b>Aviso eu ainda estou aprendendo usar o github</b>
 
 ## Meus Conhecimentos
 [![blog](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickAlves2008&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
