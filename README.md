@@ -25,6 +25,6 @@ Desde os <b>12 anos de idade</b>, tenho contato com a área de programação. At
 </div>
 <div class="Contato">
     <h2>Meus Contatos:</h2>
-    <h3><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Minha Conta do Discord"></img>Nome: Erickflockus#5688</h3>
-    <h3><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Meu endereço de gmail"></img>Endereço: fairhercules2008@gmail.com</h3>
+    <h3><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Minha Conta do Discord"></img> Nome: Erickflockus#5688</h3>
+    <h3><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Meu endereço de gmail"></img> Endereço: fairhercules2008@gmail.com</h3>
 </div>
