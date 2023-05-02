@@ -2,7 +2,6 @@
 
 <h3>Ola! Eu sou o Erick 🫠</h3>
 Desde os <b>12 anos de idade</b>, tenho contato com a área de programação. Atualmente, estou buscando progredir na área de <b>back-end</b> e também na área de <b>Inteligência Virtual</b>.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div class="Conhecimentos">
     <h2>Meus Conhecimentos</2>
     <h3>Utilizados no meu dia a dia:</h3>
