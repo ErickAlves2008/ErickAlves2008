@@ -3,7 +3,7 @@
 <h3>Ola! Eu sou o Erick 🫠</h3>
 Desde os <b>12 anos de idade</b> tenho contato com a área de programação. Atualmente, estou buscando progredir na área de <b>back-end</b> e também na área de <b>Inteligência Virtual</b>.
 <br>
-<b>Aviso eu ainda estou aprendendo usar o github</b>
+<b>Aviso eu ainda estou aprendendo a usar o github</b>
 <br>
 
 ## Meus Conhecimentos
