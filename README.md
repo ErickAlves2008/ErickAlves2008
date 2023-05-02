@@ -5,6 +5,7 @@ Desde os <b>12 anos de idade</b> tenho contato com a área de programação. Atu
 <br>
 <b>Aviso eu ainda estou aprendendo usar o github</b>
 <br>
+
 ## Meus Conhecimentos
 [![blog](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickAlves2008&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div class="Conhecimentos">
