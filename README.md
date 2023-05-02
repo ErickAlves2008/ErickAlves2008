@@ -21,7 +21,8 @@ Desde os <b>12 anos de idade</b>, tenho contato com a área de programação. At
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Linguagem de Programação C++"></img>
     <h3>Interesses Futuros:</h3>
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" all="Engine de Jogos Unity"></img>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" all="Engine de Jogos Unity"></img>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" all="módulo python flaskmódulo python django"></img>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" all="módulo python flask"></img>
 </div>
 <div class="Contato">
     <h2>Meus Contatos:</h2>
