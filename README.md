@@ -1,7 +1,7 @@
 
 
 <h3>Ola! Eu sou o Erick 🫠</h3>
-Desde os <b>12 anos de idade</b>, tenho contato com a área de programação. Atualmente, estou buscando progredir na área de <b>back-end</b> e também na área de <b>Inteligência Virtual</b>.
+Desde os <b>14 anos de idade</b>, tenho contato com a área de programação. Atualmente, estou buscando progredir na área profissional do mundo DEV
 
 <h4><b>Contribuições ao github:</b></h4>
 
