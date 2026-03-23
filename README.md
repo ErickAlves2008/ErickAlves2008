@@ -1,9 +1,7 @@
-
-
-<h3>Ola! Eu sou o Erick 🫠</h3>
+###Ola! Eu sou o Erick 🫠
 Desde os <b>14 anos de idade</b>, tenho contato com a área de programação. Atualmente, estou buscando progredir na área profissional do mundo DEV
 
-<h4><b>Contribuições ao github:</b></h4>
+####<b>Contribuições ao github:</b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickAlves2008&show_icons=true&theme=synthwave)
 
