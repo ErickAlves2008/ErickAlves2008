@@ -1,8 +1,9 @@
 ### Ola! Eu sou o Erick 🫠
 Desde os <b>14 anos de idade</b>, tenho contato com a área de programação. Atualmente, estou buscando progredir na área profissional do mundo DEV
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickalvesflk&show_icons=true&theme=dark">
+<div style="display: inline;">
+  <img height="180em" style="display: inline;" src="https://github-readme-stats.vercel.app/api?username=erickalvesflk&show_icons=true&theme=dark">
+  <img height="180em" style="display: inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickalvesflk&layout=compact&theme=dark">
 </div>
 
 <div class="Conhecimentos">
