@@ -1,13 +1,9 @@
-<h1>Sobre mim!</h1>
+<h1 align="center"> -Sobre mim!-</h1>
 
 <p align="justify">
-Olá! Eu sou o Erick 🫠, Desde os <b>14 anos de idade</b>, tenho contato com a área de programação.<br>
-Atualmente, estou buscando progredir na área profissional do mundo DEV 🚀
+Olá! Meu nome é Erick, tenho 18 anos e sou do Rio de Janeiro. Desde os 13 anos, venho explorando o universo da tecnologia, criando projetos tanto por diversão quanto para ajudar no meu dia a dia.
+Agora, aos 18, decidi dar um passo além e iniciar a minha carreira profissional no mundo da tecnologia!
 </p>
-
-<h3 align="center">- Tecnologias que mais uso -</h3>
-
----
 
 <div align="center">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -19,14 +15,6 @@ Atualmente, estou buscando progredir na área profissional do mundo DEV 🚀
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </div>
 <br>
-<div align="center">
-    <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-    <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
-    <img width="25em" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/6/2/f/62f64963b3b8eda573996bdfb646729e818ef77b.png"/>
-    <img width="25em" src="https://media.forgecdn.net/avatars/538/559/637863803856518049.png"/>
-</div>
-<br>
 <h3 align="center">- Estatísticas -</h3>
 
 ---
@@ -35,3 +23,15 @@ Atualmente, estou buscando progredir na área profissional do mundo DEV 🚀
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erickalvesflk&show_icons=true&theme=dark&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickalvesflk&layout=compact&theme=dark&count_private=true&hide=tex"/>
 </p>
+
+
+<h3 align="center">- Contatos -</h3>
+
+---
+
+<div  align="center">
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
