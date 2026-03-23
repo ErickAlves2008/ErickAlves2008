@@ -1,24 +1,38 @@
-### Ola! Eu sou o Erick 🫠
-Desde os <b>14 anos de idade</b>, tenho contato com a área de programação. Atualmente, estou buscando progredir na área profissional do mundo DEV
+<h1 align="center">Olá! Eu sou o Erick 🫠</h1>
 
-<div style="display: block; margin: auto;">
-  <img height="120em" style="display: inline;" src="https://github-readme-stats.vercel.app/api?username=erickalvesflk&show_icons=true&theme=dark&count_private=true">
-  <img height="120em" style="display: inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickalvesflk&layout=compact&theme=dark&count_private=true&hide=tex">
+<p align="center">
+Desde os <b>14 anos de idade</b>, tenho contato com a área de programação.<br>
+Atualmente, estou buscando progredir na área profissional do mundo DEV 🚀
+</p>
+
+---
+
+<h3 align="center">- Tecnologias que mais uso -</h3>
+
+<div align="center">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </div>
 
-<div class="Conhecimentos">
-    <h3>Utilizados no meu dia a dia:</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Linguagem de Programação Python"></img>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Linguagem de Programação Html"></img>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Linguagem de Programação Css"></img>
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Linguagem de Programação Lua"></img>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Linguagem de Programação Javascript">
-    <h3>Aprendendo a Utilizar:</h3>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Linguagem de Programação C-Sharp"></img>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" all="linguagem de programação java"></img>
+<div align="center">  
+    <h4>- Outras linguagens -</h4>
+    <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+    <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
+    <img width="25em" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/6/2/f/62f64963b3b8eda573996bdfb646729e818ef77b.png"/>
+    <img width="25em" src="https://media.forgecdn.net/avatars/538/559/637863803856518049.png"/>
 </div>
-<div class="Contato">
-    <h2>Meus Contatos:</h2>
-    <h3><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Meu endereço de gmail"></img> Endereços: erickalvesflk@gmail.com / alves.erick@graduacao.uerj.br</h3>
-    <h3><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Minha Conta do Discord"></img> ID: 583788196547002395</h3>
-</div>
+
+---
+
+<h3 align="center">- Estatísticas -</h3>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erickalvesflk&show_icons=true&theme=dark&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickalvesflk&layout=compact&theme=dark&count_private=true&hide=tex"/>
+</p>
