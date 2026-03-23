@@ -20,7 +20,7 @@ Atualmente, estou buscando progredir na área profissional do mundo DEV 🚀
 </div>
 
 <div align="center">  
-    <h4>- Outras linguagens -</h4>
+    <h4>- Outras linguagens que já usei-</h4>
     <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
     <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
