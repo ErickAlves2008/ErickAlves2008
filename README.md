@@ -3,7 +3,17 @@ Desde os <b>14 anos de idade</b>, tenho contato com a área de programação. At
 
 #### <b>Contribuições ao github:</b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickalvesflkshow_icons=true&theme=synthwave)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ## Meus Conhecimentos
 [![blog](https://github-readme-stats.vercel.app/api/top-langs/?username=erickalvesflklayout=compact)](https://github.com/anuraghazra/github-readme-stats)
