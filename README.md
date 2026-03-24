@@ -1,4 +1,4 @@
-<h1 align="center"> -Sobre mim!-</h1>
+<h1 align="center"> -Sobre mim-</h1>
 
 <p align="justify">
 Olá! Meu nome é Erick, tenho 18 anos e sou do Rio de Janeiro. Desde os 13 anos, venho explorando o universo da tecnologia, criando projetos tanto por diversão quanto para ajudar no meu dia a dia.
