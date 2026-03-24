@@ -1,7 +1,7 @@
 <h1 align="center"> -Sobre mim-</h1>
 
 <p align="justify">
-Olá! Meu nome é Erick, tenho 18 anos e sou do Rio de Janeiro. Desde os 13 anos, venho explorando o universo da tecnologia, criando projetos tanto por diversão quanto para ajudar no meu dia a dia.
+Olá! Meu nome é Erick, tenho 18 anos e sou do Rio de Janeiro. Desde os 13 anos, crio projetos tanto por diversão quanto para ajudar no meu dia a dia.
 Agora, aos 18, decidi dar um passo além e iniciar a minha carreira profissional no mundo da tecnologia!
 </p>
 
