@@ -21,7 +21,7 @@ Agora, aos 18, decidi dar um passo além e iniciar a minha carreira profissional
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erickalvesflk&show_icons=true&theme=dark&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickalvesflk&layout=compact&theme=dark&count_private=true&hide=tex"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickalvesflk&layout=compact&theme=dark&count_private=true&hide=tex&exclude_repo=pedra-papel-tesoura"/>
 </p>
 
 
